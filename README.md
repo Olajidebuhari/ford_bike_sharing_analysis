@@ -28,4 +28,4 @@ pattern of usage also indicates no significant difference between their weekday 
 The insights i was probing for is basically the demography of the riders of this bike sharing service and 
 the pattern of usage. The violin plots of the **days of the week** against the **start hour** shows a significant
 pattern of rides, which indicate that most of the rides on weekdays are as a means of transportation to work and back
-from work. Further more, the barplots shows a break down in the usage of the service by demograghy with conclusion that subscribed male Young adult use the service the most.
+from work. Further more, the barplots shows a break down in the usage of the service by demography with conclusion that subscribed male Young adult use the service the most.
